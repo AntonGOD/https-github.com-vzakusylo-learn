@@ -1,0 +1,15 @@
+Hi my name is Anton Babak, I want to learn git to the full extent without it, if you understand it well I will not make any changes to the release. I do not understand git as well as I do git. So I am the default guy. If you like git you may want to read the manual there: https://gist.github.com/nolifan/68131909
+
+Note: The main goal of this repo is to make it a bit easy to download and install your favorite Git client. I will also be adding some new features of the repo so expect a few things done in case you are interested.
+
+Please bear in mind that I have to know that Git is my project of pride (and also, as much as possible, my own): I've taken my first steps in it. With a working version (1.6.12) and a full repository I was able to set up to play nicely with it with only one caveat: I'm running the current version. Don't worry though, this doesn't mean I am running a new one! It is my opinion and belief in what it means to be a contributing engineer in a project built on top of git.
+
+To be honest, I'm not really used to using other projects, especially when they were released on my own branch (I also use the new repo, but it's not my project.) I tend to work independently and also as a
+
+I want to use something with the most basic features. And my ideas will allow me to use any open standards library that comes along. Now I'm not a developer of code, but a very talented one. That's what I want with gulp.
+
+So what does this mean in practice? I actually thought that gulp would never come online yet, because you might have to implement it by hand. I know this because I know one of the great things about gulp is that it takes many months just to make a piece of code, and this time it's really done on an open standard. There is a new feature coming soon called the TypeScript type extension.
+
+The TypeScript type extension is great for writing new types like data , type , string , function , function etc. Just think how simple it would be to encode in JavaScript like this:
+
+import { read, write } from
